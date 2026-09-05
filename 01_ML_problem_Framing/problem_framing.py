@@ -23,5 +23,20 @@ print(f"Problem       : {problem}")
 print(f"Objective     : {objective}")
 print(f"Features      : {features}")
 print(f"Target        : {target}")
-print(f"Problem Type  : {problem_type}")
+print(f"Problem Type  : {problem _type}")
 print(f"Success Metric: {success_metric}")
+
+
+print("\n--- ML Problem Framing Details ---")
+
+print("Problem: Predict whether a student will pass or fail")
+print("Input Features:")
+print("1. Attendance")
+print("2. Study Hours")
+print("3. Previous Marks")
+print("4. Assignment Score")
+
+print("Target: Pass or Fail")
+print("ML Type: Supervised Learning")
+print("Problem Type: Classification")
+print("Evaluation Metric: Accuracy")
