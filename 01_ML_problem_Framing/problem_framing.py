@@ -44,3 +44,10 @@ print("Evaluation Metric: Accuracy")
 print("\n--- Why This Is a Classification Problem ---")
 print("The target has two possible outcomes: Pass or Fail.")
 print("Therefore, this is a binary classification problem.")
+
+# Features are the input variables used by the model.
+# Target is the output that the model tries to predict.
+
+print("\n--- Features and Target ---")
+print("Features: Attendance, Study Hours, Previous Marks, Assignment Score")
+print("Target: Pass or Fail")
