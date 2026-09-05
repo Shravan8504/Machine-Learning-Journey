@@ -8,3 +8,19 @@ In this example, we learned how to frame a machine learning problem by identifyi
 - Machine Learning Type
 - Problem Type
 - Evaluation Metric
+
+## Example Output
+
+The program identifies this as a binary classification problem.
+
+### Features
+- Attendance
+- Study Hours
+- Previous Marks
+- Assignment Score
+
+### Target
+- Pass or Fail
+
+### Evaluation Metric
+- Accuracy
