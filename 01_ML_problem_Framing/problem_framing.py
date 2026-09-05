@@ -40,3 +40,7 @@ print("Target: Pass or Fail")
 print("ML Type: Supervised Learning")
 print("Problem Type: Classification")
 print("Evaluation Metric: Accuracy")
+
+print("\n--- Why This Is a Classification Problem ---")
+print("The target has two possible outcomes: Pass or Fail.")
+print("Therefore, this is a binary classification problem.")
