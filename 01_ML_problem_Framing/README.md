@@ -24,3 +24,10 @@ The program identifies this as a binary classification problem.
 
 ### Evaluation Metric
 - Accuracy
+
+## What I Learned
+
+- How to define a machine learning problem
+- How to identify features and target variables
+- Difference between classification and regression
+- How to choose an evaluation metric
