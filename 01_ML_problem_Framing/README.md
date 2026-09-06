@@ -47,3 +47,10 @@ The program identifies this as a binary classification problem.
 - Classification: Predicting categories or classes
 - Regression: Predicting a continuous numerical value
 - Metric: A measurement used to evaluate model performance
+
+
+## Conclusion
+
+Problem framing is an important first step in machine learning.
+A clearly defined problem helps us choose the right features,
+target, ML approach, and evaluation metric.
