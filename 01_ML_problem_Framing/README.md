@@ -39,3 +39,11 @@ The program identifies this as a binary classification problem.
 3. Define the target variable
 4. Choose the ML problem type
 5. Select an evaluation metric
+
+## Key Terms
+
+- Feature: Input information used by the model
+- Target: The value the model tries to predict
+- Classification: Predicting categories or classes
+- Regression: Predicting a continuous numerical value
+- Metric: A measurement used to evaluate model performance
