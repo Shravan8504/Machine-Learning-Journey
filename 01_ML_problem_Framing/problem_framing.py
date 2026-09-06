@@ -51,3 +51,12 @@ print("Therefore, this is a binary classification problem.")
 print("\n--- Features and Target ---")
 print("Features: Attendance, Study Hours, Previous Marks, Assignment Score")
 print("Target: Pass or Fail")
+
+# Example 2: Customer Purchase Prediction
+
+print("\n--- Customer Purchase Prediction ---")
+print("Problem: Predict whether a customer will purchase a product")
+print("Features: Age, Previous Purchases, Time on Website, Income")
+print("Target: Purchase (Yes/No)")
+print("Problem Type: Classification")
+print("Evaluation Metric: Accuracy")
