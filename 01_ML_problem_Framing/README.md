@@ -31,3 +31,11 @@ The program identifies this as a binary classification problem.
 - How to identify features and target variables
 - Difference between classification and regression
 - How to choose an evaluation metric
+
+## Problem Framing Checklist
+
+1. Define the problem clearly
+2. Identify the input features
+3. Define the target variable
+4. Choose the ML problem type
+5. Select an evaluation metric
