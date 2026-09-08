@@ -21,3 +21,6 @@ print(df.describe())
 
 print("\nMissing Values:")
 print(df.isnull().sum())
+
+print("\nData Types:")
+print(df.dtypes)
