@@ -9,3 +9,6 @@ print(df.head())
 
 print("\nDataset Information:")
 print(df.info())
+
+print("\nDataset Shape:")
+print(df.shape)
