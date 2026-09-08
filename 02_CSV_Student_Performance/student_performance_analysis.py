@@ -12,3 +12,6 @@ print(df.info())
 
 print("\nDataset Shape:")
 print(df.shape)
+
+print("\nColumn Names:")
+print(df.columns)
