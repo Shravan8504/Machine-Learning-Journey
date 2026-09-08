@@ -18,3 +18,6 @@ print(df.columns)
 
 print("\nStatistical Summary:")
 print(df.describe())
+
+print("\nMissing Values:")
+print(df.isnull().sum())
