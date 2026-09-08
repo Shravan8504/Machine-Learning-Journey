@@ -1,5 +1,4 @@
-Student_ID,Name,Attendance,Study_Hours,Previous_Marks,Assignment_Score,Performance_Level,Average_Score,Result,Study_Category2,
-2,Riya,92,5,88,91,Excellent,89.5,Pass,Moderate
+Student_ID,Name,Attendance,Study_Hours,Previous_Marks,Assignment_Score,Performance_Level,Average_Score,Result,Study_Category2,Riya,92,5,88,91,Excellent,89.5,Pass,Moderate
 3,Rohan,68,2,55,62,Average,58.5,Pass,Moderate
 4,Ananya,95,6,91,94,Average,92.5,Fail,High
 5,Vikram,74,3,65,70,Excellent,67.5,Pass,Low
