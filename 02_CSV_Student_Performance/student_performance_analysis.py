@@ -15,3 +15,6 @@ print(df.shape)
 
 print("\nColumn Names:")
 print(df.columns)
+
+print("\nStatistical Summary:")
+print(df.describe())
